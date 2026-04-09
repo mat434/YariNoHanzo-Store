@@ -1,0 +1,34 @@
+:root {
+    --primary-color: #e50914;
+    --dark-color: #141414;
+}
+
+h4 {
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+header {
+    background:linear-gradient(transparent, black), url(./caroimg/caro2.jpg);
+    background-size: cover;
+    background-position: center;
+    /* height: 85vh; */
+    
+}
+
+nav {
+    z-index: 9999;
+}
+
+.footercustom {
+    margin-top: 100px;
+}
+
+.red {
+    color: var(--primary-color);
+}
+
+/* lista pagamento */
+.ulpay {
+    list-style-type: none;
+}
