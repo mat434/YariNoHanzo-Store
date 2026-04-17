@@ -23,3 +23,5 @@ linkdark.addEventListener('click', (event) => {
         localStorage.setItem('tema', 'light');
     }
 });
+
+// funzioni carrello e aggiungi al carrello

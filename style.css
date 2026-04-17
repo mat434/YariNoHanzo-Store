@@ -72,6 +72,7 @@ body.dark-mode h2,
 body.dark-mode h3, 
 body.dark-mode h4,
 body.dark-mode h5, 
+body.dark-mode a,
 body.dark-mode p {
     color: white !important;
 }
